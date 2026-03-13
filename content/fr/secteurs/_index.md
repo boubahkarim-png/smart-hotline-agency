@@ -1,123 +1,27 @@
 ---
-title: "Secteurs d'activité"
-description: "Smart Hotline Agency - Secteurs d'activité"
-url: "/secteurs/dactivité"
+title: "Nos Secteurs d'Activité"
+description: "Des solutions sur mesure pour chaque industrie."
+hero: "/images/handshake.jpg"
 layout: "single"
-type: "page"
 ---
 
-Search this site
+## Une Expertise Multidisciplinaire
 
-Embedded Files
+L'adaptabilité est au cœur de notre métier. **Smart Hotline Agency** intervient dans des domaines variés, apportant à chaque fois une connaissance métier spécifique.
 
-Skip to main content
+### Industries que nous servons
 
-Skip to navigation
+- **E-commerce & Retail** : Gestion des pics de commandes, SAV et suivi de livraison.
+- **Santé & Médical** : Prise de rendez-vous patients et gestion de permanence médicale.
+- **Immobilier** : Qualification de mandats et gestion d'agendas de visites.
+- **Services Professionnels (B2B)** : Prospection ciblée et support technique IT.
+- **Automobile** : Relance de devis et enquêtes de satisfaction post-achat.
+- **Éducation & Formation** : Inscriptions et information aux étudiants.
 
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)](/accueil)[Smart Hotline Agency](/accueil)
+---
 
-  * [Accueil](/accueil)
+### Pourquoi une approche sectorielle ?
 
-  * [Solutions](/solutions)
+Parce qu'on ne parle pas de la même manière à un patient, un acheteur de luxe ou un chef d'entreprise B2B. Nos agents reçoivent des formations continues sur les spécificités de votre secteur pour garantir une crédibilité totale.
 
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-  * More
-
-    * [Accueil](/accueil)
-
-    * [Solutions](/solutions)
-
-      * [Réception d'appels](/solutions/reception-dappels)
-
-      * [Émission d'appel ](/solutions/emission-dappels)
-
-      * [Support client](/solutions/support-client)
-
-      * [Chat et ticket](/solutions/chat-ticket)
-
-      * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-    * [Secteurs d'activité](/secteurs-dactivité)
-
-    * [Tarifs](/tarifs)
-
-    * [Resources](/resources)
-
-    * [À propos ](/à-propos)
-
-    * [Carrière](/carrière)
-
-    * [Partenariat](/partenariat)
-
-    * [Blog](/blog_1)
-
-    * [Contact](/contact)
-
-Google Sites
-
-Report abuse
-
-Page details
-
-Page updated
-
-Google Sites
-
-Report abuse
+[Votre secteur n'est pas listé ? Parlons-en !](/contact)

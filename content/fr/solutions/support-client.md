@@ -1,123 +1,34 @@
 ---
-title: "Support client"
-description: "Smart Hotline Agency - Support client"
-url: "/solutions/support/client"
+title: "Support Client & Assistance Technique"
+description: "Offrez une expérience client exceptionnelle avec un support réactif et omnicanal."
+hero: "/images/support-tech.jpg"
 layout: "single"
-type: "page"
 ---
 
-Search this site
+## Votre Satisfaction Client est Notre Priorité
 
-Embedded Files
+Le support client ne doit pas être un coût, mais un investissement dans la fidélisation. **Smart Hotline Agency** gère votre service après-vente et votre assistance technique avec une rigueur absolue.
 
-Skip to main content
+### Une Gestion Omnicanale
 
-Skip to navigation
+Nous intervenons sur tous les points de contact de vos clients :
+- **Téléphone** : Assistance directe et personnalisée.
+- **Chat en Direct** : Réponse instantanée sur votre site web.
+- **Ticketing / Email** : Suivi rigoureux des demandes complexes.
+- **Réseaux Sociaux** : Modération et réponse à votre communauté.
 
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)](/accueil)[Smart Hotline Agency](/accueil)
+### Nos Engagements de Service (SLA)
 
-  * [Accueil](/accueil)
+- **Réactivité** : Plus de 90% des appels pris en moins de 20 secondes.
+- **Résolution** : Priorité à la résolution au premier contact (FCR).
+- **Expertise** : Formation continue de nos agents sur vos produits et services.
 
-  * [Solutions](/solutions)
+### Intégration Technologique
 
-    * [Réception d'appels](/solutions/reception-dappels)
+Nous maîtrisons les outils leaders du marché (Zendesk, Salesforce, Freshdesk, HubSpot) pour une continuité de service parfaite avec vos équipes internes.
 
-    * [Émission d'appel ](/solutions/emission-dappels)
+---
 
-    * [Support client](/solutions/support-client)
+> "Le support client de Smart Hotline a divisé par deux notre taux d'attrition en seulement 6 mois." 
 
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-  * More
-
-    * [Accueil](/accueil)
-
-    * [Solutions](/solutions)
-
-      * [Réception d'appels](/solutions/reception-dappels)
-
-      * [Émission d'appel ](/solutions/emission-dappels)
-
-      * [Support client](/solutions/support-client)
-
-      * [Chat et ticket](/solutions/chat-ticket)
-
-      * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-    * [Secteurs d'activité](/secteurs-dactivité)
-
-    * [Tarifs](/tarifs)
-
-    * [Resources](/resources)
-
-    * [À propos ](/à-propos)
-
-    * [Carrière](/carrière)
-
-    * [Partenariat](/partenariat)
-
-    * [Blog](/blog_1)
-
-    * [Contact](/contact)
-
-Google Sites
-
-Report abuse
-
-Page details
-
-Page updated
-
-Google Sites
-
-Report abuse
+[Optimiser mon support client](/contact)

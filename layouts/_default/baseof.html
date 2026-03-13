@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "fr" }}">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -24,64 +25,114 @@
         }
     </script>
     <style>
-        .glass { background: rgba(255, 255, 255, 0.9); backdrop-filter: blur(10px); }
-        .gradient-bg { background: linear-gradient(135deg, #0c4a6e 0%, #0284c7 100%); }
-        .hero-pattern { background-image: url('/images/main-hero.jpg'); background-size: cover; background-position: center; }
+        .glass { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); }
+        .hero-gradient { background: linear-gradient(135deg, rgba(12, 74, 110, 0.9) 0%, rgba(2, 132, 199, 0.8) 100%); }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-900 font-sans">
     <header class="fixed w-full z-50 glass border-b border-slate-200">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between h-16 items-center">
-                <a href="/" class="flex items-center space-x-3">
-                    <img src="/images/logo.png" class="h-10 w-auto" alt="Smart Hotline">
-                    <span class="text-xl font-bold text-primary-900">Smart Hotline</span>
+            <div class="flex justify-between h-20 items-center">
+                <a href="/" class="flex items-center space-x-3 group">
+                    <img src="/images/logo.png" class="h-12 w-auto transition group-hover:scale-105" alt="Smart Hotline">
+                    <div class="flex flex-col">
+                        <span class="text-xl font-bold text-primary-900 leading-none">Smart Hotline</span>
+                        <span class="text-[10px] uppercase tracking-widest text-primary-600 font-bold mt-1">BPO & AI Solutions</span>
+                    </div>
                 </a>
-                <nav class="hidden md:flex space-x-8">
-                    <a href="/" class="text-slate-600 hover:text-primary-600 font-medium transition">Accueil</a>
-                    <a href="/solutions" class="text-slate-600 hover:text-primary-600 font-medium transition">Solutions</a>
-                    <a href="/tarifs" class="text-slate-600 hover:text-primary-600 font-medium transition">Tarifs</a>
-                    <a href="/contact" class="text-slate-600 hover:text-primary-600 font-medium transition">Contact</a>
+                
+                <nav class="hidden lg:flex space-x-8">
+                    <a href="/" class="text-slate-600 hover:text-primary-600 font-semibold transition">Accueil</a>
+                    <div class="relative group">
+                        <button class="flex items-center text-slate-600 hover:text-primary-600 font-semibold transition py-4">
+                            Solutions <i class="fas fa-chevron-down ml-2 text-xs"></i>
+                        </button>
+                        <div class="absolute left-0 mt-0 w-64 bg-white border border-slate-100 rounded-xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform group-hover:translate-y-1">
+                            <div class="p-2">
+                                <a href="/solutions/ai-voice-agents" class="flex items-center p-3 rounded-lg hover:bg-primary-50 group">
+                                    <div class="w-8 h-8 bg-primary-100 text-primary-600 rounded flex items-center justify-center mr-3"><i class="fas fa-robot"></i></div>
+                                    <div><div class="font-bold text-sm">AI Voice Agents</div><div class="text-[10px] text-slate-500">Automatisation Intelligente</div></div>
+                                </a>
+                                <a href="/solutions/reception-dappels" class="flex items-center p-3 rounded-lg hover:bg-primary-50 group">
+                                    <div class="w-8 h-8 bg-primary-100 text-primary-600 rounded flex items-center justify-center mr-3"><i class="fas fa-headset"></i></div>
+                                    <div><div class="font-bold text-sm">Réception d'Appels</div><div class="text-[10px] text-slate-500">Secrétariat 24/7</div></div>
+                                </a>
+                                <a href="/solutions/emission-dappels" class="flex items-center p-3 rounded-lg hover:bg-primary-50 group">
+                                    <div class="w-8 h-8 bg-primary-100 text-primary-600 rounded flex items-center justify-center mr-3"><i class="fas fa-phone-alt"></i></div>
+                                    <div><div class="font-bold text-sm">Émission d'Appels</div><div class="text-[10px] text-slate-500">Téléprospection Expert</div></div>
+                                </a>
+                                <a href="/solutions/crm-auto-dialer" class="flex items-center p-3 rounded-lg hover:bg-primary-50 group">
+                                    <div class="w-8 h-8 bg-primary-100 text-primary-600 rounded flex items-center justify-center mr-3"><i class="fas fa-database"></i></div>
+                                    <div><div class="font-bold text-sm">CRM & Auto-Dialer</div><div class="text-[10px] text-slate-500">Performance Data</div></div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="/secteurs" class="text-slate-600 hover:text-primary-600 font-semibold transition">Secteurs</a>
+                    <a href="/tarifs" class="text-slate-600 hover:text-primary-600 font-semibold transition">Tarifs</a>
+                    <a href="/a-propos" class="text-slate-600 hover:text-primary-600 font-semibold transition">À Propos</a>
                 </nav>
+
                 <div class="flex items-center space-x-4">
-                    <a href="/contact" class="hidden sm:block bg-primary-600 text-white px-5 py-2 rounded-lg font-semibold hover:bg-primary-700 transition shadow-lg shadow-primary-200">Devenir Client</a>
+                    <a href="/contact" class="hidden sm:inline-flex items-center bg-primary-600 text-white px-6 py-2.5 rounded-full font-bold hover:bg-primary-700 transition shadow-lg shadow-primary-200">
+                        Contactez-nous
+                    </a>
+                    <button class="lg:hidden text-slate-600 p-2"><i class="fas fa-bars text-2xl"></i></button>
                 </div>
             </div>
         </div>
     </header>
 
-    <main>
+    <main class="min-h-screen">
         {{ block "main" . }}{{ end }}
     </main>
 
-    <footer class="bg-slate-900 text-slate-300 py-12">
-        <div class="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
-            <div class="col-span-1 md:col-span-2">
-                <div class="flex items-center space-x-3 mb-4">
-                    <img src="/images/logo.png" class="h-8 brightness-0 invert" alt="">
+    <footer class="bg-slate-900 text-slate-400 pt-20 pb-10">
+        <div class="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
+            <div class="col-span-1 lg:col-span-1">
+                <div class="flex items-center space-x-3 mb-6">
+                    <img src="/images/logo.png" class="h-10 brightness-0 invert" alt="">
                     <span class="text-white text-xl font-bold">Smart Hotline</span>
                 </div>
-                <p class="max-w-sm text-slate-400">Expertise BPO et communication téléphonique pour les PME. Solutions innovantes de gestion d'appels et CRM sur mesure.</p>
+                <p class="mb-6 leading-relaxed">Partenaire privilégié pour l'externalisation de vos services clients et le déploiement d'agents IA innovants.</p>
+                <div class="flex space-x-4">
+                    <a href="#" class="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center hover:bg-primary-600 transition"><i class="fab fa-linkedin-in text-white"></i></a>
+                    <a href="#" class="w-10 h-10 bg-slate-800 rounded-full flex items-center justify-center hover:bg-primary-600 transition"><i class="fab fa-twitter text-white"></i></a>
+                </div>
             </div>
             <div>
-                <h4 class="text-white font-bold mb-4">Navigation</h4>
-                <ul class="space-y-2 text-sm">
-                    <li><a href="/solutions" class="hover:text-white transition">Solutions</a></li>
-                    <li><a href="/tarifs" class="hover:text-white transition">Tarifs</a></li>
-                    <li><a href="/contact" class="hover:text-white transition">Contact</a></li>
+                <h4 class="text-white font-bold mb-6 uppercase text-xs tracking-widest">Nos Solutions</h4>
+                <ul class="space-y-3">
+                    <li><a href="/solutions/ai-voice-agents" class="hover:text-primary-400 transition">AI Voice Agents</a></li>
+                    <li><a href="/solutions/reception-dappels" class="hover:text-primary-400 transition">Réception d'Appels</a></li>
+                    <li><a href="/solutions/emission-dappels" class="hover:text-primary-400 transition">Émission d'Appels</a></li>
+                    <li><a href="/solutions/crm-auto-dialer" class="hover:text-primary-400 transition">CRM & Auto-Dialer</a></li>
                 </ul>
             </div>
             <div>
-                <h4 class="text-white font-bold mb-4">Contact</h4>
-                <ul class="space-y-2 text-sm">
-                    <li><i class="fas fa-envelope mr-2"></i> direction@smart-hotline.com</li>
-                    <li><i class="fas fa-phone mr-2"></i> +1-514-819-0559</li>
-                    <li><i class="fas fa-map-marker-alt mr-2"></i> Paris, France</li>
+                <h4 class="text-white font-bold mb-6 uppercase text-xs tracking-widest">Entreprise</h4>
+                <ul class="space-y-3">
+                    <li><a href="/a-propos" class="hover:text-primary-400 transition">À Propos</a></li>
+                    <li><a href="/secteurs" class="hover:text-primary-400 transition">Secteurs</a></li>
+                    <li><a href="/tarifs" class="hover:text-primary-400 transition">Nos Tarifs</a></li>
+                    <li><a href="/contact" class="hover:text-primary-400 transition">Contact</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4 class="text-white font-bold mb-6 uppercase text-xs tracking-widest">Coordonnées</h4>
+                <ul class="space-y-4 text-sm">
+                    <li class="flex items-start"><i class="fas fa-map-marker-alt text-primary-500 mt-1 mr-3"></i> Paris, France / Montréal, Canada</li>
+                    <li class="flex items-center"><i class="fas fa-phone-alt text-primary-500 mr-3"></i> +1-514-819-0559</li>
+                    <li class="flex items-center"><i class="fas fa-envelope text-primary-500 mr-3"></i> direction@smart-hotline.com</li>
                 </ul>
             </div>
         </div>
-        <div class="max-w-7xl mx-auto px-4 mt-12 pt-8 border-t border-slate-800 text-center text-xs">
-            &copy; {{ now.Year }} Smart Hotline Agency. Tous droits réservés.
+        <div class="max-w-7xl mx-auto px-4 pt-8 border-t border-slate-800 flex flex-col md:row justify-between items-center text-xs">
+            <p>&copy; {{ now.Year }} Smart Hotline Agency. Expert BPO & AI Voice. Tous droits réservés.</p>
+            <div class="flex space-x-6 mt-4 md:mt-0">
+                <a href="/mentions-legales" class="hover:text-white transition">Mentions Légales</a>
+                <a href="/confidentialite" class="hover:text-white transition">Confidentialité</a>
+            </div>
         </div>
     </footer>
 </body>

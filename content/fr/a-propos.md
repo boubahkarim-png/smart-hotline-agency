@@ -1,123 +1,37 @@
 ---
-title: "À propos"
-description: "Smart Hotline Agency - À propos"
-url: "/à/propos"
+title: "À Propos de Smart Hotline Agency"
+description: "Découvrez notre histoire, nos valeurs et notre engagement envers l'excellence."
+hero: "/images/about-hero.jpg"
 layout: "single"
-type: "page"
 ---
 
-Search this site
+## Plus qu'un Centre d'Appels, Votre Partenaire Croissance
 
-Embedded Files
+Fondée avec la vision de démocratiser l'accès aux services de communication de haute qualité pour les PME, **Smart Hotline Agency** est devenue une référence du BPO (Business Process Outsourcing) en France et à l'international.
 
-Skip to main content
+### Notre Mission
 
-Skip to navigation
+Accompagner les entreprises dans leur transformation et leur croissance en gérant leur relation client de manière humaine, efficace et innovante.
 
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)](/accueil)[Smart Hotline Agency](/accueil)
+### Nos Valeurs Fondamentales
 
-  * [Accueil](/accueil)
+- **Excellence** : Nous visons la perfection dans chaque interaction téléphonique.
+- **Innovation** : Intégration constante des nouvelles technologies (IA, Cloud) pour rester à la pointe.
+- **Transparence** : Une relation de confiance basée sur des rapports honnêtes et précis.
+- **Flexibilité** : Des solutions qui grandissent avec vous, sans contraintes inutiles.
 
-  * [Solutions](/solutions)
+### Notre Équipe
 
-    * [Réception d'appels](/solutions/reception-dappels)
+Composée d'experts en relation client, de techniciens télécom et de spécialistes en IA, notre équipe est notre plus grande force. Chaque agent est sélectionné pour son empathie, son élocution et sa capacité d'analyse.
 
-    * [Émission d'appel ](/solutions/emission-dappels)
+### Nos Implantations
 
-    * [Support client](/solutions/support-client)
+Avec des bureaux à **Paris** et des centres partenaires à **Montréal** et en **Afrique du Nord**, nous offrons une couverture fuseau horaire complète et une maîtrise culturelle parfaite des marchés francophones et anglophones.
 
-    * [Chat et ticket](/solutions/chat-ticket)
+---
 
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
+### Rejoignez-nous
 
-  * [Secteurs d'activité](/secteurs-dactivité)
+Vous souhaitez externaliser votre service client ou lancer une campagne de prospection ? Faites confiance à l'expertise de Smart Hotline Agency.
 
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-  * More
-
-    * [Accueil](/accueil)
-
-    * [Solutions](/solutions)
-
-      * [Réception d'appels](/solutions/reception-dappels)
-
-      * [Émission d'appel ](/solutions/emission-dappels)
-
-      * [Support client](/solutions/support-client)
-
-      * [Chat et ticket](/solutions/chat-ticket)
-
-      * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-    * [Secteurs d'activité](/secteurs-dactivité)
-
-    * [Tarifs](/tarifs)
-
-    * [Resources](/resources)
-
-    * [À propos ](/à-propos)
-
-    * [Carrière](/carrière)
-
-    * [Partenariat](/partenariat)
-
-    * [Blog](/blog_1)
-
-    * [Contact](/contact)
-
-Google Sites
-
-Report abuse
-
-Page details
-
-Page updated
-
-Google Sites
-
-Report abuse
+[Nous contacter](/contact)

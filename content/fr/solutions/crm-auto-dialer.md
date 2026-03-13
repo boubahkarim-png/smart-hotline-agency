@@ -1,123 +1,33 @@
 ---
-title: "CRM auto-dialer et listes"
-description: "Smart Hotline Agency - CRM auto-dialer et listes"
-url: "/solutions/crm/auto/dialer/et/listes"
+title: "CRM, Auto-Dialer & Data"
+description: "Optimisez votre productivité avec nos outils technologiques de pointe."
+hero: "/images/analytics-dashboard.jpg.png"
 layout: "single"
-type: "page"
 ---
 
-Search this site
+## La Technologie au Service de Votre Performance
 
-Embedded Files
+La data est le carburant de votre prospection. Chez **Smart Hotline Agency**, nous ne nous contentons pas de passer des appels ; nous optimisons chaque seconde grâce à notre infrastructure technologique.
 
-Skip to main content
+### Solution CRM sur Mesure
 
-Skip to navigation
+Si vous n'avez pas encore d'outil, nous mettons à votre disposition notre plateforme CRM optimisée pour les centres d'appels. Si vous en avez un, nous nous y connectons en toute sécurité.
 
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)](/accueil)[Smart Hotline Agency](/accueil)
+### Puissance de l'Auto-Dialer
 
-  * [Accueil](/accueil)
+Notre système de numérotation automatique (Predictive Dialer) permet de :
+- Éliminer les temps d'attente entre deux appels.
+- Filtrer automatiquement les répondeurs et les faux numéros.
+- Augmenter le temps de parole effectif de vos agents de 300%.
 
-  * [Solutions](/solutions)
+### Gestion de Listes et Leads
 
-    * [Réception d'appels](/solutions/reception-dappels)
+- **Nettoyage de Data** : Suppression des doublons et vérification des numéros.
+- **Segmentation Avancée** : Ciblage précis selon vos critères (secteur, CA, effectif).
+- **Conformité RGPD** : Gestion rigoureuse des consentements et de la liste Bloctel.
 
-    * [Émission d'appel ](/solutions/emission-dappels)
+### Reporting Temps Réel
 
-    * [Support client](/solutions/support-client)
+Accédez à un tableau de bord dynamique pour suivre vos KPIs en direct depuis votre bureau. La transparence est le fondement de notre partenariat.
 
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-  * More
-
-    * [Accueil](/accueil)
-
-    * [Solutions](/solutions)
-
-      * [Réception d'appels](/solutions/reception-dappels)
-
-      * [Émission d'appel ](/solutions/emission-dappels)
-
-      * [Support client](/solutions/support-client)
-
-      * [Chat et ticket](/solutions/chat-ticket)
-
-      * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-    * [Secteurs d'activité](/secteurs-dactivité)
-
-    * [Tarifs](/tarifs)
-
-    * [Resources](/resources)
-
-    * [À propos ](/à-propos)
-
-    * [Carrière](/carrière)
-
-    * [Partenariat](/partenariat)
-
-    * [Blog](/blog_1)
-
-    * [Contact](/contact)
-
-Google Sites
-
-Report abuse
-
-Page details
-
-Page updated
-
-Google Sites
-
-Report abuse
+[Découvrir notre technologie](/contact)

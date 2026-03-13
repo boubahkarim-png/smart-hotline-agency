@@ -1,123 +1,32 @@
 ---
-title: "Émission d'appel"
-description: "Smart Hotline Agency - Émission d'appel"
-url: "/solutions/emission/dappels"
+title: "Émission d'Appels & Téléprospection"
+description: "Boostez votre pipeline de vente avec nos services de prospection téléphonique ciblée."
+hero: "/images/telemarketing.jpg"
 layout: "single"
-type: "page"
 ---
 
-Search this site
+## Développez Votre Chiffre d'Affaires
 
-Embedded Files
+L'émission d'appels reste l'un des leviers les plus puissants pour la croissance commerciale. **Smart Hotline Agency** met à votre disposition des experts de la vente par téléphone pour transformer vos prospects en clients.
 
-Skip to main content
+### Nos Domaines d'Intervention
 
-Skip to navigation
+- **Prise de Rendez-vous B2B** : Nous qualifions vos prospects et remplissons les agendas de vos commerciaux.
+- **Détection de Projets** : Identification des besoins immédiats sur votre marché.
+- **Qualification de Fichiers** : Mise à jour et enrichissement de vos bases de données.
+- **Relance de Devis** : Suivi proactif de vos propositions commerciales pour maximiser le taux de conversion.
+- **Enquêtes de Satisfaction** : Recueil de feedbacks précieux pour améliorer votre offre.
 
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)](/accueil)[Smart Hotline Agency](/accueil)
+### Notre Approche Qualitative
 
-  * [Accueil](/accueil)
+Contrairement aux centres d'appels de masse, nous privilégions la **qualité de l'échange**. Nos scripts sont co-construits avec vous pour refléter parfaitement votre discours de marque et vos valeurs.
 
-  * [Solutions](/solutions)
+### Performance Mesurable
 
-    * [Réception d'appels](/solutions/reception-dappels)
+Chaque campagne est accompagnée de rapports détaillés :
+- Taux de joignabilité.
+- Taux de transformation.
+- Analyse des objections rencontrées.
+- Enregistrements (sur demande) pour le coaching.
 
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-  * More
-
-    * [Accueil](/accueil)
-
-    * [Solutions](/solutions)
-
-      * [Réception d'appels](/solutions/reception-dappels)
-
-      * [Émission d'appel ](/solutions/emission-dappels)
-
-      * [Support client](/solutions/support-client)
-
-      * [Chat et ticket](/solutions/chat-ticket)
-
-      * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-    * [Secteurs d'activité](/secteurs-dactivité)
-
-    * [Tarifs](/tarifs)
-
-    * [Resources](/resources)
-
-    * [À propos ](/à-propos)
-
-    * [Carrière](/carrière)
-
-    * [Partenariat](/partenariat)
-
-    * [Blog](/blog_1)
-
-    * [Contact](/contact)
-
-Google Sites
-
-Report abuse
-
-Page details
-
-Page updated
-
-Google Sites
-
-Report abuse
+[Lancer votre campagne de prospection](/contact)

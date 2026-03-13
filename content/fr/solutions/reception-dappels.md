@@ -1,123 +1,31 @@
 ---
-title: "Réception d'appels"
-description: "Smart Hotline Agency - Réception d'appels"
-url: "/solutions/reception/dappels"
+title: "Réception d'Appels Professionnelle"
+description: "Ne manquez plus jamais un appel important grâce à notre service de réception dédié 24/7."
+hero: "/images/reception-hero.jpg"
 layout: "single"
-type: "page"
 ---
 
-Search this site
+## Un Accueil Téléphonique à la Hauteur de Votre Image
 
-Embedded Files
+Dans un monde où la réactivité est la clé, **Smart Hotline Agency** assure la permanence téléphonique de votre entreprise. Que vous soyez un entrepreneur individuel ou une PME en pleine croissance, notre service de téléréception s'adapte à vos besoins.
 
-Skip to main content
+### Nos Services de Réception
 
-Skip to navigation
+1.  **Réception Standard** : Nos téléopérateurs répondent en votre nom, filtrent les appels et prennent des messages détaillés.
+2.  **Prise de Rendez-vous** : Nous gérons votre agenda en temps réel, synchronisé avec vos outils (Google Calendar, Doctolib, etc.).
+3.  **Support Client Niveau 1** : Résolution des questions fréquentes et assistance immédiate pour vos clients.
+4.  **Gestion des Urgences** : Protocoles spécifiques pour escalader les appels critiques selon vos consignes.
 
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)](/accueil)[Smart Hotline Agency](/accueil)
+### Les Avantages pour Votre Entreprise
 
-  * [Accueil](/accueil)
+- **Disponibilité Totale** : Vos clients ne tombent jamais sur une boîte vocale.
+- **Réduction des Coûts** : Évitez les charges fixes d'une secrétaire physique.
+- **Image Professionnelle** : Un accueil courtois, structuré et multilingue.
+- **Concentration Maximale** : Libérez-vous des interruptions pour vous focaliser sur votre cœur de métier.
 
-  * [Solutions](/solutions)
+---
 
-    * [Réception d'appels](/solutions/reception-dappels)
+### Comment ça marche ?
+C'est simple : vous transférez votre ligne vers notre numéro dédié, et nous prenons le relais selon vos instructions précises.
 
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-  * More
-
-    * [Accueil](/accueil)
-
-    * [Solutions](/solutions)
-
-      * [Réception d'appels](/solutions/reception-dappels)
-
-      * [Émission d'appel ](/solutions/emission-dappels)
-
-      * [Support client](/solutions/support-client)
-
-      * [Chat et ticket](/solutions/chat-ticket)
-
-      * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-    * [Secteurs d'activité](/secteurs-dactivité)
-
-    * [Tarifs](/tarifs)
-
-    * [Resources](/resources)
-
-    * [À propos ](/à-propos)
-
-    * [Carrière](/carrière)
-
-    * [Partenariat](/partenariat)
-
-    * [Blog](/blog_1)
-
-    * [Contact](/contact)
-
-Google Sites
-
-Report abuse
-
-Page details
-
-Page updated
-
-Google Sites
-
-Report abuse
+[Demander un essai gratuit de 2 semaines](/contact)

@@ -1,38 +1,35 @@
 {{ define "main" }}
-<section class="section page-section">
-  <div class="container">
-    <nav class="breadcrumb" aria-label="Fil d'Ariane">
-      <a href="/">Accueil</a>
-      {{ if .Parent }}
-        {{ if ne .Parent.RelPermalink "/" }}
-          <span class="breadcrumb-sep">/</span>
-          <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
-        {{ end }}
-      {{ end }}
-      <span class="breadcrumb-sep">/</span>
-      <span class="breadcrumb-current">{{ .Title }}</span>
-    </nav>
+<article>
+    <!-- Dynamic Hero -->
+    {{ $hero := .Params.hero | default "/images/services-hero.jpg" }}
+    <header class="relative py-32 bg-slate-900 overflow-hidden">
+        <div class="absolute inset-0 opacity-40">
+            <img src="{{ $hero }}" class="w-full h-full object-cover" alt="{{ .Title }}">
+        </div>
+        <div class="max-w-7xl mx-auto px-4 relative z-10 text-center">
+            <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-white mb-6">{{ .Title }}</h1>
+            <p class="text-xl text-slate-300 max-w-2xl mx-auto">{{ .Description }}</p>
+        </div>
+    </header>
 
-    <div class="page-layout">
-      <article class="page-content">
-        <h1 class="page-title">{{ .Title }}</h1>
-        {{ .Content }}
-      </article>
-      <aside class="page-sidebar">
-        <div class="sidebar-cta">
-          <h3>Besoin d'un devis ?</h3>
-          <p>Contactez-nous pour une proposition personnalisée adaptée à vos besoins.</p>
-          <a href="/contact/" class="btn btn-primary btn-block">Obtenir un Devis</a>
+    <div class="max-w-4xl mx-auto px-4 py-20">
+        <div class="prose prose-lg prose-slate max-w-none 
+            prose-headings:text-primary-900 prose-headings:font-bold
+            prose-a:text-primary-600 prose-strong:text-slate-900">
+            {{ .Content }}
         </div>
-        <div class="sidebar-contact">
-          <h3>Contactez-nous</h3>
-          <ul>
-            <li><a href="tel:{{ .Site.Params.phoneRaw }}">{{ .Site.Params.phone }}</a></li>
-            <li><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
-          </ul>
+        
+        {{ if eq .Section "solutions" }}
+        <div class="mt-20 p-10 bg-primary-50 rounded-3xl border border-primary-100 flex flex-col md:flex-row items-center justify-between">
+            <div class="mb-6 md:mb-0">
+                <h3 class="text-2xl font-bold text-primary-900 mb-2">Prêt à optimiser votre service ?</h3>
+                <p class="text-primary-700">Demandez une consultation gratuite et personnalisée dès aujourd'hui.</p>
+            </div>
+            <a href="/contact" class="bg-primary-600 text-white px-8 py-4 rounded-xl font-bold hover:bg-primary-700 transition shadow-xl shadow-primary-200 shrink-0">
+                Obtenir un Devis
+            </a>
         </div>
-      </aside>
+        {{ end }}
     </div>
-  </div>
-</section>
+</article>
 {{ end }}
