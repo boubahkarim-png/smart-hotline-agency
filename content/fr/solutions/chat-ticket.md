@@ -1,123 +1,29 @@
 ---
-title: "Chat et ticket"
-description: "Smart Hotline Agency - Chat et ticket"
-url: "/solutions/chat/ticket"
+title: "Chat & Ticketing Omnicanal"
+description: "Offrez un service client réactif sur tous les canaux : chat en direct, email et réseaux sociaux."
+hero: "/images/chat-interface.jpg"
 layout: "single"
-type: "page"
 ---
 
-Search this site
+## La Communication Omnicanale Simplifiée
 
-Embedded Files
+Les clients d'aujourd'hui s'attendent à une réponse immédiate, quel que soit le canal. **Smart Hotline Agency** centralise la gestion de vos interactions via une plateforme unique.
 
-Skip to main content
+### Services Inclus
 
-Skip to navigation
+- **Chat en Direct (Live Chat)** : Installation sur votre site web avec réponse par nos agents ou transfert à vos équipes.
+- **Gestion de Tickets** : Suivi rigoureux des demandes clients via email avec SLA garantis.
+- **Réseaux Sociaux** : Modération et réponse aux messages privés sur Facebook, Instagram et LinkedIn.
 
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)](/accueil)[Smart Hotline Agency](/accueil)
+### Avantages pour votre Marque
 
-  * [Accueil](/accueil)
+- **Réactivité 24/7** : Ne laissez aucune demande sans réponse, même la nuit ou le week-end.
+- **Historique Centralisé** : Toutes les conversations sont archivées et accessibles.
+- **Scripts & FAQ** : Base de connaissances intégrée pour des réponses rapides et cohérentes.
 
-  * [Solutions](/solutions)
+---
 
-    * [Réception d'appels](/solutions/reception-dappels)
+### Intégrations Possibles
+Nous nous connectons à vos outils existants : Intercom, Zendesk, Crisp, et plus encore.
 
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-  * More
-
-    * [Accueil](/accueil)
-
-    * [Solutions](/solutions)
-
-      * [Réception d'appels](/solutions/reception-dappels)
-
-      * [Émission d'appel ](/solutions/emission-dappels)
-
-      * [Support client](/solutions/support-client)
-
-      * [Chat et ticket](/solutions/chat-ticket)
-
-      * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-    * [Secteurs d'activité](/secteurs-dactivité)
-
-    * [Tarifs](/tarifs)
-
-    * [Resources](/resources)
-
-    * [À propos ](/à-propos)
-
-    * [Carrière](/carrière)
-
-    * [Partenariat](/partenariat)
-
-    * [Blog](/blog_1)
-
-    * [Contact](/contact)
-
-Google Sites
-
-Report abuse
-
-Page details
-
-Page updated
-
-Google Sites
-
-Report abuse
+[Activer le support omnicanal](/contact)

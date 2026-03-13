@@ -4,95 +4,88 @@ title = "Smart Hotline Agency"
 defaultContentLanguage = "fr"
 enableRobotsTXT = true
 enableEmoji = true
+theme = "hugo-theme-m10c"
 
 [params]
-  description = "Smart Hotline Agency - Centre d'appels et BPO professionnel en France. Solutions sur mesure pour la gestion de vos appels entrants, sortants et support client."
-  phone = "+33 1 84 80 60 00"
-  phoneRaw = "+33184806000"
-  email = "contact@smart-hotline.com"
-  address = "12 Rue de la Performance, 75008 Paris, France"
-  primaryColor = "#1e6c93"
-  secondaryColor = "#226e93"
-  darkColor = "#212121"
-  analyticsID = "G-RTKKH1R9FB"
-  ogImage = "/images/og-image.jpg"
+description = "Smart Hotline Agency - Centre d'appels et BPO professionnel. Solutions Humaines et IA pour votre relation client."
+phone = "+33 1 84 80 60 00"
+phoneRaw = "+33184806000"
+email = "direction@smart-hotline.com"
+address = "Paris, France / Montréal, Canada"
+primaryColor = "#1e6c93"
+analyticsID = "G-RTKKH1R9FB"
 
 [params.social]
-  linkedin = "https://www.linkedin.com/company/smart-hotline"
-  twitter = "https://twitter.com/smarthotline"
-  facebook = "https://www.facebook.com/smarthotline"
+linkedin = "https://www.linkedin.com/company/smart-hotline"
+
+# Main Menu Configuration
+[[menus.main]]
+name = "Accueil"
+url = "/"
+weight = 1
 
 [[menus.main]]
-  name = "Accueil"
-  url = "/"
-  weight = 1
+name = "Solutions"
+url = "/solutions/"
+weight = 2
+identifier = "solutions"
 
 [[menus.main]]
-  name = "Solutions"
-  url = "/solutions/"
-  weight = 2
-  identifier = "solutions"
+name = "AI Voice Agents"
+url = "/solutions/ai-voice-agents/"
+weight = 1
+parent = "solutions"
 
 [[menus.main]]
-  name = "Réception d'appels"
-  url = "/solutions/reception-dappels/"
-  weight = 1
-  parent = "solutions"
+name = "Réception d'Appels"
+url = "/solutions/reception-dappels/"
+weight = 2
+parent = "solutions"
 
 [[menus.main]]
-  name = "Émission d'appels"
-  url = "/solutions/emission-dappels/"
-  weight = 2
-  parent = "solutions"
+name = "Émission d'Appels"
+url = "/solutions/emission-dappels/"
+weight = 3
+parent = "solutions"
 
 [[menus.main]]
-  name = "Support Client"
-  url = "/solutions/support-client/"
-  weight = 3
-  parent = "solutions"
+name = "Support Client"
+url = "/solutions/support-client/"
+weight = 4
+parent = "solutions"
 
 [[menus.main]]
-  name = "Chat & Ticketing"
-  url = "/solutions/chat-ticket/"
-  weight = 4
-  parent = "solutions"
+name = "CRM & Auto-Dialer"
+url = "/solutions/crm-auto-dialer/"
+weight = 5
+parent = "solutions"
 
 [[menus.main]]
-  name = "CRM & Auto-Dialer"
-  url = "/solutions/crm-auto-dialer/"
-  weight = 5
-  parent = "solutions"
+name = "Secteurs"
+url = "/secteurs/"
+weight = 3
 
 [[menus.main]]
-  name = "Secteurs"
-  url = "/secteurs/"
-  weight = 3
+name = "Tarifs"
+url = "/tarifs/"
+weight = 4
 
 [[menus.main]]
-  name = "Tarifs"
-  url = "/tarifs/"
-  weight = 4
+name = "À Propos"
+url = "/a-propos/"
+weight = 5
 
 [[menus.main]]
-  name = "À propos"
-  url = "/a-propos/"
-  weight = 5
-
-[[menus.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 6
+name = "Contact"
+url = "/contact/"
+weight = 6
 
 [minify]
-  disableHTML = false
-  disableCSS = false
-  disableJS = false
-  disableJSON = false
-  disableSVG = false
-  disableXML = false
+disableHTML = false
+disableCSS = false
+disableJS = false
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-theme = "hugo-theme-m10c"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
