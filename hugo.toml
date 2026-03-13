@@ -95,3 +95,4 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+theme = "hugo-theme-m10c"
