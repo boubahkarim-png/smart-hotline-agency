@@ -1,123 +1,23 @@
 ---
 title: "Tarifs"
-description: "Smart Hotline Agency - Tarifs"
-url: "/tarifs"
-layout: "single"
-type: "page"
+description: "Smart Hotline Agency - Nos solutions de tarification transparentes"
+layout: "tarifs"
 ---
 
-Search this site
+### Nos Plans Professionnels
 
-Embedded Files
+#### Starter
+- **Prix**: 15€ / heure
+- **Condition**: 20h/semaine pendant 2 semaines
+- **Bonus**: +30€/rendez-vous ou vente
+- **Inclus**: Système de distribution automatique, Rapports quotidiens.
 
-Skip to main content
+#### Professional
+- **Prix**: 19€ / heure
+- **Condition**: Moins de 40h par semaine
+- **Estimation**: ~300€/mois
+- **Inclus**: Support technique, Gestionnaire de compte dédié.
 
-Skip to navigation
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)](/accueil)[Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-[![](https://lh3.googleusercontent.com/sitesv/APaQ0SSSKlcmCjPnyZRsVLaOxFx7nuBLv9QY2rogJt7H3dwNMVy3Wu8eUqHeiiVeR55jxtbWsZUW2y4wwz2idk2TN4lGOjRg1g8C05ybAoipr9FaHqaSoGJCrTy1_9jAErcSwsRQtIvZ0iyy7FSdaW9I6p2RLPkhBdRJtwwnw7becuNMLh-L0SaL84rPnSg=w16383)Smart Hotline Agency](/accueil)
-
-  * [Accueil](/accueil)
-
-  * [Solutions](/solutions)
-
-    * [Réception d'appels](/solutions/reception-dappels)
-
-    * [Émission d'appel ](/solutions/emission-dappels)
-
-    * [Support client](/solutions/support-client)
-
-    * [Chat et ticket](/solutions/chat-ticket)
-
-    * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-  * [Secteurs d'activité](/secteurs-dactivité)
-
-  * [Tarifs](/tarifs)
-
-  * [Resources](/resources)
-
-  * [À propos ](/à-propos)
-
-  * [Carrière](/carrière)
-
-  * [Partenariat](/partenariat)
-
-  * [Blog](/blog_1)
-
-  * [Contact](/contact)
-
-  * More
-
-    * [Accueil](/accueil)
-
-    * [Solutions](/solutions)
-
-      * [Réception d'appels](/solutions/reception-dappels)
-
-      * [Émission d'appel ](/solutions/emission-dappels)
-
-      * [Support client](/solutions/support-client)
-
-      * [Chat et ticket](/solutions/chat-ticket)
-
-      * [CRM auto-dialer et listes](/solutions/crm-auto-dialer-et-listes)
-
-    * [Secteurs d'activité](/secteurs-dactivité)
-
-    * [Tarifs](/tarifs)
-
-    * [Resources](/resources)
-
-    * [À propos ](/à-propos)
-
-    * [Carrière](/carrière)
-
-    * [Partenariat](/partenariat)
-
-    * [Blog](/blog_1)
-
-    * [Contact](/contact)
-
-Google Sites
-
-Report abuse
-
-Page details
-
-Page updated
-
-Google Sites
-
-Report abuse
+#### Enterprise
+- **Prix**: Sur devis
+- **Inclus**: Volume élevé, Intégration CRM personnalisée, Support 24/7.
