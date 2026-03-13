@@ -1,133 +1,138 @@
 {{ define "main" }}
-
-{{- partial "hero.html" . -}}
-
-<!-- Services Overview -->
-<section class="section services-section fade-in">
-  <div class="container">
-    <h2 class="section-title">Nos Solutions</h2>
-    <p class="section-subtitle">Des services complets pour gérer l'ensemble de votre relation client</p>
-    <div class="cards-grid">
-      <div class="card">
-        <div class="card-icon">&#128222;</div>
-        <h3 class="card-title">Réception d'appels</h3>
-        <p class="card-text">Accueil téléphonique professionnel, prise de rendez-vous, service après-vente et gestion des urgences. Vos clients sont entre de bonnes mains.</p>
-        <a href="/solutions/reception-dappels/" class="card-link">En savoir plus &rarr;</a>
-      </div>
-      <div class="card">
-        <div class="card-icon">&#128225;</div>
-        <h3 class="card-title">Émission d'appels</h3>
-        <p class="card-text">Prospection commerciale, qualification de leads, enquêtes de satisfaction et relances clients. Développez votre chiffre d'affaires.</p>
-        <a href="/solutions/emission-dappels/" class="card-link">En savoir plus &rarr;</a>
-      </div>
-      <div class="card">
-        <div class="card-icon">&#128187;</div>
-        <h3 class="card-title">Support Client</h3>
-        <p class="card-text">Assistance technique multicanal, gestion des réclamations et suivi personnalisé. Fidélisez vos clients avec un support d'excellence.</p>
-        <a href="/solutions/support-client/" class="card-link">En savoir plus &rarr;</a>
-      </div>
+<!-- Hero Section -->
+<section class="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden">
+    <div class="absolute inset-0 z-0 opacity-50">
+        <img src="/images/main-hero.jpg" class="w-full h-full object-cover" alt="Call Center" style="filter: brightness(0.4);">
     </div>
-  </div>
-</section>
-
-<!-- Pourquoi nous choisir -->
-<section class="section why-section fade-in">
-  <div class="container">
-    <h2 class="section-title">Pourquoi nous choisir</h2>
-    <p class="section-subtitle">Smart Hotline Agency se distingue par son engagement envers l'excellence</p>
-    <div class="features-grid">
-      <div class="feature">
-        <div class="feature-icon">&#9201;</div>
-        <h3 class="feature-title">Disponibilité 24/7</h3>
-        <p class="feature-text">Notre centre d'appels fonctionne jour et nuit, 365 jours par an. Vos clients peuvent nous joindre à tout moment.</p>
-      </div>
-      <div class="feature">
-        <div class="feature-icon">&#127760;</div>
-        <h3 class="feature-title">Équipe Multilingue</h3>
-        <p class="feature-text">Nos agents maîtrisent le français, l'anglais, l'espagnol, l'arabe et d'autres langues pour servir une clientèle internationale.</p>
-      </div>
-      <div class="feature">
-        <div class="feature-icon">&#9881;</div>
-        <h3 class="feature-title">Technologie Avancée</h3>
-        <p class="feature-text">CRM intégré, auto-dialer, enregistrement des appels, reporting en temps réel et intelligence artificielle au service de la performance.</p>
-      </div>
-      <div class="feature">
-        <div class="feature-icon">&#11088;</div>
-        <h3 class="feature-title">Satisfaction Client</h3>
-        <p class="feature-text">Un taux de satisfaction de 99.8% grâce à notre démarche qualité rigoureuse et notre engagement envers l'excellence du service.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Stats -->
-<section class="section stats-section fade-in">
-  <div class="container">
-    <div class="stats-grid">
-      <div class="stat">
-        <div class="stat-number">15+</div>
-        <div class="stat-label">Années d'expérience</div>
-      </div>
-      <div class="stat">
-        <div class="stat-number">500+</div>
-        <div class="stat-label">Clients satisfaits</div>
-      </div>
-      <div class="stat">
-        <div class="stat-number">99.8%</div>
-        <div class="stat-label">Taux de satisfaction</div>
-      </div>
-      <div class="stat">
-        <div class="stat-number">24/7</div>
-        <div class="stat-label">Support disponible</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Testimonials -->
-<section class="section testimonials-section fade-in">
-  <div class="container">
-    <h2 class="section-title">Ce que disent nos clients</h2>
-    <p class="section-subtitle">Ils nous font confiance pour gérer leur relation client</p>
-    <div class="testimonials-grid">
-      <div class="testimonial-card">
-        <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <p class="testimonial-text">"Smart Hotline a transformé notre service client. Depuis que nous travaillons avec eux, notre taux de satisfaction client a augmenté de 35%. Leur professionnalisme et leur réactivité sont remarquables."</p>
-        <div class="testimonial-author">
-          <strong>Marie Dupont</strong>
-          <span>Directrice Service Client, TechnoStore Paris</span>
+    <div class="absolute inset-0 bg-gradient-to-r from-primary-900 via-primary-800 to-primary-700 opacity-80 z-0"></div>
+    <div class="max-w-7xl mx-auto px-4 relative z-10">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div>
+                <h1 class="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6 leading-tight">
+                    Votre Relation Client <br><span class="text-primary-300">24/7 & Multilingue</span>
+                </h1>
+                <p class="text-xl text-slate-200 mb-10 leading-relaxed">
+                    Centre d'appels professionnel et solutions IA pour PME. Nous gérons vos appels, votre prospection et votre support client avec excellence.
+                </p>
+                <div class="flex flex-col sm:flex-row gap-4">
+                    <a href="/contact/" class="inline-flex items-center justify-center bg-white text-primary-700 px-8 py-4 rounded-xl font-bold text-lg hover:bg-primary-50 transition shadow-2xl">
+                        <i class="fas fa-phone-alt mr-3"></i> Démarrer Gratuitement
+                    </a>
+                    <a href="/tarifs/" class="inline-flex items-center justify-center bg-transparent text-white border-2 border-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-white hover:text-primary-700 transition">
+                        Voir les Tarifs
+                    </a>
+                </div>
+            </div>
+            <div class="hidden lg:block relative">
+                <img src="/images/team-400.webp" class="w-full h-auto rounded-2xl shadow-2xl" alt="Notre Équipe">
+            </div>
         </div>
-      </div>
-      <div class="testimonial-card">
-        <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <p class="testimonial-text">"Grâce à Smart Hotline, nous avons pu externaliser notre centre d'appels tout en maintenant une qualité irréprochable. Leur équipe multilingue nous permet de servir nos clients dans toute l'Europe."</p>
-        <div class="testimonial-author">
-          <strong>Jean-Pierre Martin</strong>
-          <span>PDG, Logistique Express SAS</span>
-        </div>
-      </div>
-      <div class="testimonial-card">
-        <div class="testimonial-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <p class="testimonial-text">"Un partenaire fiable et performant. La mise en place a été rapide et les résultats sont au rendez-vous. Notre taux de conversion sur les appels sortants a doublé en 6 mois."</p>
-        <div class="testimonial-author">
-          <strong>Sophie Lefèvre</strong>
-          <span>Responsable Commercial, Assurances Méditerranée</span>
-        </div>
-      </div>
     </div>
-  </div>
 </section>
 
-<!-- CTA Banner -->
-<section class="section cta-banner fade-in">
-  <div class="container">
-    <h2 class="cta-title">Prêt à optimiser votre service client ?</h2>
-    <p class="cta-text">Contactez-nous dès aujourd'hui pour un audit gratuit et une proposition personnalisée.</p>
-    <div class="cta-buttons">
-      <a href="/contact/" class="btn btn-primary btn-lg">Demander un Devis Gratuit</a>
-      <a href="tel:{{ .Site.Params.phoneRaw }}" class="btn btn-outline-light btn-lg">&#9742; Appelez-nous</a>
+<!-- Services Grid -->
+<section class="py-20 bg-white">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Nos Services</h2>
+            <div class="w-20 h-1 bg-primary-600 mx-auto mb-6"></div>
+            <p class="text-lg text-slate-600 max-w-2xl mx-auto">Des solutions sur mesure pour chaque besoin de communication</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+            <a href="/solutions/ai-voice-agents/" class="group bg-gradient-to-br from-primary-900 to-primary-700 p-8 rounded-3xl text-white hover:shadow-2xl transition-all transform hover:-translate-y-2">
+                <div class="w-16 h-16 bg-white/20 rounded-2xl flex items-center justify-center mb-6">
+                    <i class="fas fa-robot text-3xl"></i>
+                </div>
+                <h3 class="text-2xl font-bold mb-4">AI Voice Agents</h3>
+                <p class="text-primary-100 mb-4">Automatisez vos appels avec des agents vocaux IA intelligents. Réponse instantanée 24/7.</p>
+                <span class="font-bold flex items-center text-white">Découvrir <i class="fas fa-arrow-right ml-2 group-hover:translate-x-2 transition"></i></span>
+            </a>
+            
+            <a href="/solutions/reception-dappels/" class="group bg-slate-50 p-8 rounded-3xl border border-slate-200 hover:shadow-2xl hover:border-primary-300 transition-all transform hover:-translate-y-2">
+                <div class="w-16 h-16 bg-primary-100 rounded-2xl flex items-center justify-center mb-6 text-primary-600">
+                    <i class="fas fa-headset text-3xl"></i>
+                </div>
+                <h3 class="text-2xl font-bold mb-4 text-slate-900">Réception d'Appels</h3>
+                <p class="text-slate-600 mb-4">Accueil téléphonique professionnel, prise de rendez-vous et gestion des urgences.</p>
+                <span class="font-bold flex items-center text-primary-600">En savoir plus <i class="fas fa-arrow-right ml-2 group-hover:translate-x-2 transition"></i></span>
+            </a>
+            
+            <a href="/solutions/emission-dappels/" class="group bg-slate-50 p-8 rounded-3xl border border-slate-200 hover:shadow-2xl hover:border-primary-300 transition-all transform hover:-translate-y-2">
+                <div class="w-16 h-16 bg-primary-100 rounded-2xl flex items-center justify-center mb-6 text-primary-600">
+                    <i class="fas fa-phone-volume text-3xl"></i>
+                </div>
+                <h3 class="text-2xl font-bold mb-4 text-slate-900">Émission d'Appels</h3>
+                <p class="text-slate-600 mb-4">Téléprospection ciblée, qualification de leads et relance de devis.</p>
+                <span class="font-bold flex items-center text-primary-600">En savoir plus <i class="fas fa-arrow-right ml-2 group-hover:translate-x-2 transition"></i></span>
+            </a>
+            
+            <a href="/solutions/support-client/" class="group bg-slate-50 p-8 rounded-3xl border border-slate-200 hover:shadow-2xl hover:border-primary-300 transition-all transform hover:-translate-y-2">
+                <div class="w-16 h-16 bg-primary-100 rounded-2xl flex items-center justify-center mb-6 text-primary-600">
+                    <i class="fas fa-life-ring text-3xl"></i>
+                </div>
+                <h3 class="text-2xl font-bold mb-4 text-slate-900">Support Client</h3>
+                <p class="text-slate-600 mb-4">Assistance technique multicanal et gestion des réclamations.</p>
+                <span class="font-bold flex items-center text-primary-600">En savoir plus <i class="fas fa-arrow-right ml-2 group-hover:translate-x-2 transition"></i></span>
+            </a>
+            
+            <a href="/solutions/chat-ticket/" class="group bg-slate-50 p-8 rounded-3xl border border-slate-200 hover:shadow-2xl hover:border-primary-300 transition-all transform hover:-translate-y-2">
+                <div class="w-16 h-16 bg-primary-100 rounded-2xl flex items-center justify-center mb-6 text-primary-600">
+                    <i class="fas fa-comments text-3xl"></i>
+                </div>
+                <h3 class="text-2xl font-bold mb-4 text-slate-900">Chat & Ticketing</h3>
+                <p class="text-slate-600 mb-4">Support omnicanal via chat, email et réseaux sociaux.</p>
+                <span class="font-bold flex items-center text-primary-600">En savoir plus <i class="fas fa-arrow-right ml-2 group-hover:translate-x-2 transition"></i></span>
+            </a>
+            
+            <a href="/solutions/crm-auto-dialer/" class="group bg-slate-50 p-8 rounded-3xl border border-slate-200 hover:shadow-2xl hover:border-primary-300 transition-all transform hover:-translate-y-2">
+                <div class="w-16 h-16 bg-primary-100 rounded-2xl flex items-center justify-center mb-6 text-primary-600">
+                    <i class="fas fa-database text-3xl"></i>
+                </div>
+                <h3 class="text-2xl font-bold mb-4 text-slate-900">CRM & Auto-Dialer</h3>
+                <p class="text-slate-600 mb-4">Outils technologiques de pointe pour optimiser votre productivité.</p>
+                <span class="font-bold flex items-center text-primary-600">En savoir plus <i class="fas fa-arrow-right ml-2 group-hover:translate-x-2 transition"></i></span>
+            </a>
+        </div>
     </div>
-  </div>
 </section>
 
+<!-- Stats Section -->
+<section class="py-16 bg-primary-900">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+            <div>
+                <div class="text-5xl md:text-6xl font-black text-white mb-2">500+</div>
+                <div class="text-primary-200 font-semibold">Clients Satisfaits</div>
+            </div>
+            <div>
+                <div class="text-5xl md:text-6xl font-black text-white mb-2">15+</div>
+                <div class="text-primary-200 font-semibold">Années d'Expérience</div>
+            </div>
+            <div>
+                <div class="text-5xl md:text-6xl font-black text-white mb-2">99%</div>
+                <div class="text-primary-200 font-semibold">Taux de Satisfaction</div>
+            </div>
+            <div>
+                <div class="text-5xl md:text-6xl font-black text-white mb-2">24/7</div>
+                <div class="text-primary-200 font-semibold">Support Disponible</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA Section -->
+<section class="py-20 bg-slate-50">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Prêt à Transformer Votre Relation Client ?</h2>
+        <p class="text-xl text-slate-600 mb-10">Obtenez un devis gratuit et personnalisé en moins de 24h.</p>
+        <div class="flex flex-col sm:flex-row justify-center gap-4">
+            <a href="/contact/" class="inline-flex items-center justify-center bg-primary-600 text-white px-10 py-4 rounded-xl font-bold text-lg hover:bg-primary-700 transition shadow-xl">
+                <i class="fas fa-envelope mr-3"></i> Demander un Devis
+            </a>
+            <a href="tel:+15148190559" class="inline-flex items-center justify-center bg-white text-primary-700 border-2 border-primary-600 px-10 py-4 rounded-xl font-bold text-lg hover:bg-primary-50 transition">
+                <i class="fas fa-phone mr-3"></i> +1-514-819-0559
+            </a>
+        </div>
+    </div>
+</section>
 {{ end }}
