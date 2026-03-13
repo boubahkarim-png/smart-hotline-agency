@@ -1,0 +1,30 @@
+{{ define "main" }}
+<section class="section page-section">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Fil d'Ariane">
+      <a href="/">Accueil</a>
+      {{ if .Parent }}
+        {{ if ne .Parent.RelPermalink "/" }}
+          <span class="breadcrumb-sep">/</span>
+          <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
+        {{ end }}
+      {{ end }}
+      <span class="breadcrumb-sep">/</span>
+      <span class="breadcrumb-current">{{ .Title }}</span>
+    </nav>
+
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ with .Content }}<div class="section-intro">{{ . }}</div>{{ end }}
+
+    <div class="cards-grid">
+      {{ range .Pages }}
+      <div class="card">
+        <h3 class="card-title">{{ .Title }}</h3>
+        <p class="card-text">{{ .Description }}</p>
+        <a href="{{ .RelPermalink }}" class="card-link">En savoir plus &rarr;</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

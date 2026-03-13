@@ -1,0 +1,98 @@
+[build]
+  publish = "public"
+  command = "hugo --gc --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.140.2"
+  HUGO_ENV = "production"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+# Redirects from old Google Sites URLs
+[[redirects]]
+  from = "/accueil"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/solutions/reception-dappels"
+  to = "/fr/solutions/reception-dappels/"
+  status = 301
+
+[[redirects]]
+  from = "/solutions/emission-dappels"
+  to = "/fr/solutions/emission-dappels/"
+  status = 301
+
+[[redirects]]
+  from = "/solutions/support-client"
+  to = "/fr/solutions/support-client/"
+  status = 301
+
+[[redirects]]
+  from = "/solutions/chat-ticket"
+  to = "/fr/solutions/chat-ticket/"
+  status = 301
+
+[[redirects]]
+  from = "/solutions/crm-auto-dialer-et-listes"
+  to = "/fr/solutions/crm-auto-dialer/"
+  status = 301
+
+[[redirects]]
+  from = "/secteurs-dactivité"
+  to = "/fr/secteurs/"
+  status = 301
+
+[[redirects]]
+  from = "/à-propos"
+  to = "/fr/a-propos/"
+  status = 301
+
+[[redirects]]
+  from = "/carrière"
+  to = "/fr/carrieres/"
+  status = 301
+
+[[redirects]]
+  from = "/blog_1"
+  to = "/fr/blog/"
+  status = 301
+
+[[redirects]]
+  from = "/contact"
+  to = "/fr/contact/"
+  status = 301
+
+# Headers for security and performance
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
